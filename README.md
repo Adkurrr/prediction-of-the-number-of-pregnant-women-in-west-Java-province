@@ -1,4 +1,4 @@
-# prediction-of-the-number-of-pregnant-women-in-West-Java-province
+# prediction-of-the-number-of-pregnant-women-in-West-Java-province-using-ANN
 
 - sumber data : https://opendata.jabarprov.go.id/id/dataset/jumlah-ibu-hamil-berdasarkan-kabupatenkota-di-jawa-barat
 - Dataset ini berisi data jumlah ibu hamil berdasarkan kabupaten/kota di Provinsi Jawa Barat dari tahun 2016 s.d. 2020.
